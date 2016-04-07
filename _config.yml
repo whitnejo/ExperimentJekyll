@@ -1,1 +1,7 @@
 destination: ../_site
+
+timezone: America/Chicago
+
+show_drafts: false
+
+author: Jodie
